@@ -1,3 +1,15 @@
 [submodule "platform"]
 	path = platform
 	url = git://github.com/nexgenta/eregansu.git
+[submodule "app/mq"]
+	path = app/mq
+	url = git://github.com/nexgenta/mq.git
+[submodule "app/log"]
+	path = app/log
+	url = git://github.com/nexgenta/log.git
+[submodule "app/vfs"]
+	path = app/vfs
+	url = git://github.com/nexgenta/vfs.git
+[submodule "app/cluster"]
+	path = app/cluster
+	url = git://github.com/nexgenta/cluster.git
